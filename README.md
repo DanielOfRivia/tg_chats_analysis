@@ -2,7 +2,7 @@
 
 This project was developed as the final assignment for the **Computational Social Science** course at **NaUKMA**.
 
-It presents an analysis of my personal Telegram data, structured into four main parts:
+It presents an analysis of my personal Telegram data.
 
 ## 📊 Project Structure
 
